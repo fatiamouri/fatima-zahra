@@ -1,0 +1,44 @@
+header img{
+    height: 100px;
+    width: 100px; 
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #8d6e63;
+    height: 100px;
+    align-items: center;
+}
+main{
+    text-align: center;
+    background-image:url(background-office-bg-changed\ \(1\).jpg) ;
+    color:wheat;
+    padding: 50px;
+} 
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+
+.card img{
+    width: 150px; 
+    height: 150px;
+    border-radius: 15px;
+    
+}
+.card{
+    background-color:  #d7ccc8;
+    width: 27%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px;
+}
+#container{
+    text-align: center;
+}
+footer{ 
+    text-align: center;
+}
+
